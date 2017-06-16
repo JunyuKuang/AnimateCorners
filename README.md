@@ -3,6 +3,8 @@ A demo show you how to directly animate a view's corner radius and specify which
 
 Related WWDC session: https://developer.apple.com/wwdc17/230
 
+![Screenshot](/Screenshot.png?raw=true)
+
 # Requirement
 - Xcode 9.0+
 - iOS 11.0+
